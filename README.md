@@ -1,4 +1,4 @@
-🧮 Makalculator – Simple and Functional Calculator
+# 🧮 Makalculator – Simple and Functional Calculator
 
 ➕ A digital calculator with basic operations and a clean, responsive design. Ideal for practicing logic and interfaces.
 
